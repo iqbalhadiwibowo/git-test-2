@@ -8,5 +8,8 @@
 <body>
     <h1>Coba</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia iure laborum incidunt, velit quis iusto. Consequatur, praesentium ipsa. Consectetur odio vero nam minima perferendis ipsum fugiat. Facere libero deleniti nostrum.</p>
+    <ul>
+        <li>Coba 1</li>
+    </ul>
 </body>
 </html>
